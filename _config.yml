@@ -16,7 +16,7 @@
 title: 這是一個測試站台
 email: godhuen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-聽說github搭配Jekyll架靜態網站很方便所以來試試
+ 聽說github搭配Jekyll架靜態網站很方便所以來試試
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: godhuen
